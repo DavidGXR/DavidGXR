@@ -1,8 +1,8 @@
 # 👋 Hi, I’m David!
-I am passionate about mobile application development in both Android and iOS platform because I love turning my difficulties into a mobile app.
+I just turn my difficulties into an app.
 
 ### 📖 What I'm focusing on
-Currently improving my iOS development skills because I love the iOS development environment.
+Currently improving my iOS development skill.
 
 <!---
 DavidGXR/DavidGXR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
