@@ -1,5 +1,5 @@
 # 👋 Hi, I’m David!
-I just turn my difficulties into an app.
+I just turn my difficulties into a mobile app.
 
 ### 📖 What I'm focusing on
 Currently improving my iOS development skill.
